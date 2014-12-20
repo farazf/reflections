@@ -18,3 +18,7 @@ What are some situations when branches would be helpful in keeping your history 
 
 it would be great when we want to add alternative versions or editions with experimental features
 the originial plan would be safe, and we can easily switch between branches.
+
+***
+How do the diagrams help you visualize the branch structure?
+???
