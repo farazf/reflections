@@ -17,3 +17,4 @@ new changes we can commit.
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 it would be great when we want to add alternative versions or editions with experimental features
+the originial plan would be safe, and we can easily switch between branches.
