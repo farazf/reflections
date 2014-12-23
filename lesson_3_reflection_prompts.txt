@@ -30,4 +30,5 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    If I want to add a new feature or fix a bug, or make an alternative solution to the problem, or when I am collaborating with other people.
+	I still have my stable code, also it decreases the odds of making mistakes or creating a bug.
